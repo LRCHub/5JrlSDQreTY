@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "四角運命",
+  "base_artist": "三月のパンタシア",
+  "createdAt": "2026-02-08T05:19:30.910671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "四角運命 -TV size-",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": false,
+      "path": "select/01_四角運命_-TV_size-_Sangatsu_no_Phantasia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "四角運命",
+      "artist": "Sangatsu no Phantasia",
+      "has_synced": true,
+      "path": "select/02_四角運命_Sangatsu_no_Phantasia.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "四角運命",
+      "artist": "三月のパンタシア",
+      "has_synced": true,
+      "path": "select/03_四角運命_三月のパンタシア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "四角運命",
+      "artist": "三月のパンタシア",
+      "has_synced": false,
+      "path": "select/pl_01_四角運命_三月のパンタシア.txt"
+    }
+  ]
+}
